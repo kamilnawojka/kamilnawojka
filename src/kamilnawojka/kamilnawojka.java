@@ -15,5 +15,6 @@ public class kamilnawojka {
      */
     public static void main(String[] args) {
        System.out.println("repo test");
+       System.out.println("repo test2");
     }
 }
